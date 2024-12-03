@@ -1,0 +1,82 @@
+*************************** INSTRUCTIONS ***************************
+
+**Game Description:**
+You play as a chicken aiming to level up by winning battles against NPC chickens. NPC chickens range from levels 1-50, and each gives experience (EXP) based on its level (e.g., level 1 NPCs give 1 EXP, level 50 gives 50 EXP). To level up from level 1 to 2, you'll need 100 EXP; each subsequent level requires 50 more EXP than the last. 
+
+As you level up, a human character will assist you, boosting your attack and defense based on their level (1-5). After defeating NPC chickens, you’ll earn a random number of bones (3-6), which you can spend on items in the store.
+
+**Store Inventory:**
+The store offers armor and claws crafted from wood, bronze, copper, iron, and diamond. Additionally, special items like Helmets, Staffs, and Shields are available for specific classes:
+- **Helmet:** Tanks only
+- **Staff:** Mages only
+- **Shield:** Melee fighters only
+
+**How to Play:**
+1. **Select Characters**: Pick your character, then confirm to start.
+2. **Classes**:
+   - **Mage**
+      - Base Health: 15
+      - Base Defense: 5
+      - Base Attack: 10
+   - **Tank**
+      - Base Health: 35
+      - Base Defense: 15
+      - Base Attack: 5
+   - **Melee**
+      - Base Health: 20
+      - Base Defense: 10
+      - Base Attack: 8
+3. **Battle Commands**:
+   - Click **Attack** to fight the NPC Chicken.
+   - Use **Special Attack** if you have special equipment.
+   - Access **Store** to buy items.
+   - Open **Inventory** to view and equip items.
+
+**--------------------------------------------------------------**
+
+**Store Details:**
+The store generates 20 random items each refresh.
+
+**Items:**
+1. **Armor Tiers**:
+   - **Tier 1 (Wood)**: +1 Defense (Levels 1-10)
+   - **Tier 2 (Bronze)**: +2 Defense (Levels 11-20)
+   - **Tier 3 (Copper)**: +3 Defense (Levels 21-30)
+   - **Tier 4 (Iron)**: +4 Defense (Levels 31-40)
+   - **Tier 5 (Diamond)**: +5 Defense (Levels 41-50)
+
+2. **Claw Tiers**:
+   - **Tier 1 (Wood)**: +1 Attack (Levels 1-10)
+   - **Tier 2 (Bronze)**: +2 Attack (Levels 11-20)
+   - **Tier 3 (Copper)**: +3 Attack (Levels 21-30)
+   - **Tier 4 (Iron)**: +4 Attack (Levels 31-40)
+   - **Tier 5 (Diamond)**: +5 Attack (Levels 41-50)
+
+3. **Special Items (No Tiers)**:
+   - **Helmet (Tank Only)** - Requires level 10: +10 Health and **Headbutt** ability (increases enemy miss chance). Gains +5 Health per 10 levels.
+   - **Staff (Mage Only)** - Requires level 10: +10 Attack and **Wind Surge** ability (stuns enemy for 2 attacks). Gains +5 Attack per 10 levels.
+   - **Shield (Melee Only)** - Requires level 10: +10 Defense and **Boomerang** ability (hits distant enemy for 5 damage). Gains +5 Defense per 10 levels.
+
+**Item Costs**:
+- Wood Gear: 3 bones
+- Bronze Gear: 5 bones
+- Copper Gear: 8 bones
+- Iron Gear: 12 bones
+- Diamond Gear: 17 bones
+- Special Items (Helmet, Staff, Shield): 100 bones each
+- Heart (Heals +10 Health): 10 bones
+
+*Note*: The store only refreshes after an item is purchased.
+
+**--------------------------------------------------------------**
+
+**Human Level Boosts**:
+- **Chicken Levels 1-10**: Human Level 1 (No boost)
+- **Chicken Levels 11-20**: Human Level 2 (+2 Attack)
+- **Chicken Levels 21-30**: Human Level 3 (+4 Attack)
+- **Chicken Levels 31-40**: Human Level 4 (+6 Attack, +6 Defense)
+- **Chicken Levels 41-50**: Human Level 5 (+8 Attack, +8 Defense)
+
+*Each kill grants 4-6 bones and experience points.*
+
+*******************************************************************
